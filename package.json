@@ -1,0 +1,11 @@
+{
+  "name": "apiquestions",
+  "version": "1.0.0",
+  "description": "Api that returns test questions",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NBO2001",
+  "license": "MIT"
+}
