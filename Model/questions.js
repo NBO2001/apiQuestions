@@ -344,6 +344,41 @@ const qstQuim = [
             },
             res: 1,
         }
+    },
+    {
+        id: 13,
+        matter: "chemistry",
+        problem: {
+            partOne:"(Original) Em relação a geometria do carbono.",
+            partTwo: "https://i.imgur.com/I0kQ81O.png" ,
+        },
+        qsts: {
+            heard:"Este é um carbono Tetraedrico",
+            options: {
+                1: "Verdadeiro",
+                2: "Falso",
+            },
+            res: 1,
+        }
+    },
+    {
+        id: 14,
+        matter: "chemistry",
+        problem: {
+            partOne:"(Original) Em relação a cadeia principal.",
+            partTwo: "https://imgur.com/NO6NaGu.png" ,
+        },
+        qsts: {
+            heard:"Ela é: ",
+            options: {
+                1: "É uma cadeia alicíclica insaturada",
+                2: "A cadeia é Alifática saturada",
+                3: "A cadeia é acíclica insatura",
+                4: "É uma cadeia aromática saturada",
+                5: "É uma cadeia alicíclica saturada"
+            },
+            res: 5,
+        }
     }
 ]
 
