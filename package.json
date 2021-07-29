@@ -4,7 +4,8 @@
   "description": "Api that returns test questions",
   "main": "App.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App"
   },
   "author": "NBO2001",
   "license": "MIT",
@@ -13,5 +14,14 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "gnode": "^0.1.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBO2001/apiQuestions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NBO2001/apiQuestions/issues"
+  },
+  "homepage": "https://github.com/NBO2001/apiQuestions#readme"
 }
